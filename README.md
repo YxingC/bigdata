@@ -113,5 +113,3 @@ n | IP
 ![alt tag](https://github.com/YxingC/bigdata/blob/master/5.jpg)
 ![alt tag](https://github.com/YxingC/bigdata/blob/master/6.jpg)
 ![alt tag](https://github.com/YxingC/bigdata/blob/master/7.jpg)
-![alt tag](https://github.com/YxingC/bigdata/blob/master/8.jpg)
-![alt tag](https://github.com/YxingC/bigdata/blob/master/9.jpg)
