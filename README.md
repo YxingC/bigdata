@@ -104,3 +104,14 @@ n | IP
 98|111.223.198.30
 99|111.223.198.16
 100|111.223.198.8
+
+## Kibana Screenshot
+![alt tag](https://github.com/YxingC/bigdata/blob/master/1.jpg)
+![alt tag](https://github.com/YxingC/bigdata/blob/master/2.jpg)
+![alt tag](https://github.com/YxingC/bigdata/blob/master/3.jpg)
+![alt tag](https://github.com/YxingC/bigdata/blob/master/4.jpg)
+![alt tag](https://github.com/YxingC/bigdata/blob/master/5.jpg)
+![alt tag](https://github.com/YxingC/bigdata/blob/master/6.jpg)
+![alt tag](https://github.com/YxingC/bigdata/blob/master/7.jpg)
+![alt tag](https://github.com/YxingC/bigdata/blob/master/8.jpg)
+![alt tag](https://github.com/YxingC/bigdata/blob/master/9.jpg)
