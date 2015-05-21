@@ -1,28 +1,11 @@
 # Logstash Configuraton
 
-### Attributes
+### Attributes Parse From Mail
  1|2|3|4|5
 :---:|:---------:|:----:|:------:|:---------:
 IP | Subject | To | From | Charset 
 **6**|**7**|**8**|**9**|**10**
 LogTime|Content-Length  |Content-Transfer-Encoding |Http-Links |GeoIP
 
-###Result
-*  <br/>
- *  **data.rar** contains the `k-means input data` and the `result` after clustering
- * We have result of k=2~5
-
-
-
-`
-`
-`
-`
-###Run
-
-##### To run this project you need to put the following .jar file in lib folder
-- spark-assembly-1.1.1-hadoop2.4.0.jar
-- spark-examples-1.1.1-hadoop2.4.0.jar
-
-##### Then build this project's jar file to lib folder and named it as
-- HelloWorld.jar
+### Patterns
+We use extra patterns and defined it in ptn if you want to run mail.conf just put ptn file in logstash/patterns
