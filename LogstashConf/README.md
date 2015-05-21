@@ -1,8 +1,8 @@
 # Logstash Configuraton
 
 <br/>
-1.We first use `grok` to parse attributes every line<br/>
-2.And then use `date` to transfer LogTime to date type<br/>
+1.We first use `grok` to parse attributes every line
+2.And then use `date` to transfer LogTime to date type
 3.Finally  use `multiline` to merge parsed lines into one through pattern `Delivered-To:` which is the begining of every mail
 <br/>
 
