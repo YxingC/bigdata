@@ -1,4 +1,6 @@
 # ScalaProject
+1. We extract five attribute form elasticsearch in HelloWorld.scala  </br>
+2. Then run k-means in K-means.scala </br>
 
 ###Five Attribute
  1|2|3|4|5
