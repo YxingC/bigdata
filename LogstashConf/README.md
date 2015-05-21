@@ -2,7 +2,7 @@
 
 ### Attributes
  1|2|3|4|5
----|---------|----|------|---------
+:---:|:---------:|:----:|:------:|:---------:
 IP | Subject | To | From | Charset 
 **6**|**7**|**8**|**9**|**10**
 LogTime|Content-Length  |Content-Transfer-Encoding |Http-Links |GeoIP
