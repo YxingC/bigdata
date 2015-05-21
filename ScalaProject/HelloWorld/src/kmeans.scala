@@ -23,7 +23,7 @@ object kmeans {
 
     //get the clustered data
     val labels=clusters.predict(parsedData)
-    //save the result and collapse into one file
+    //save the result and collapse it into one file
     labels.coalesce(1,true).saveAsTextFile("data/result/kmeansOut5")
 
     // Evaluate clustering by computing Within Set Sum of Squared Errors
