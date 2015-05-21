@@ -115,6 +115,24 @@ n | IP
 99|111.223.198.16
 100|111.223.198.8
 
+**We Extract Top 100 IP using Query**
+```
+POST _search
+{
+    "query" : {
+    "match_all": {}
+    },
+     "facets": {
+        "temp": {
+             "terms": {
+              "field":"ip" 
+              ,"size": 100
+               }
+        }
+        }
+}
+```
+
 ## Kibana Screenshot
 ![alt tag](https://github.com/YxingC/bigdata/blob/master/Photos/1.jpg)
 ![alt tag](https://github.com/YxingC/bigdata/blob/master/Photos/2.jpg)
