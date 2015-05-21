@@ -8,4 +8,4 @@ IP | Subject | To | From | Charset
 LogTime|Content-Length  |Content-Transfer-Encoding |Http-Links |GeoIP
 
 ### Patterns
-We use extra patterns and defined it in ptn if you want to run mail.conf just put ptn file in logstash/patterns
+We use extra patterns and define it in ptn if you want to run mail.conf just put ptn file in logstash/patterns
