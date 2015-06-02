@@ -21,7 +21,7 @@ k|Within Set Sum of Squared Errors
 9| 8.522675965831602E8
 10| 7.609490190126607E8
 
-We choose the minum errors when __k=7__
+We choose the minum errors that __k=7__
 
 ClusterCenter |Country_code | Subject_length | Link_or_not | Addressee | EncodeType
 --------|-------------|----------------|-------------|-----------|------------
