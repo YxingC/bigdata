@@ -34,8 +34,7 @@ ClusterCenter |Country_code | Subject_length | Link_or_not | Addressee | EncodeT
 7|0.652477974662921|2266.6629213483147|0.696629213483146|0.46240277078651687|0.34269662921348315
 
 *  <br/>
- *  **data.rar** contains the `k-means input data` and the `result` after clustering
- * We have result of k=2~10
+ *  **data.rar** contains the `k-means input data` and the `result k=7` after clustering
 <br/>
 <br/>
 
