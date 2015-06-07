@@ -8,18 +8,7 @@
 Country_code(242) | Subject_length(9999) | Link_or_not(2) | Addressee(14) | EncodeType(5)                       
 
 ###Result
-
-k|Within Set Sum of Squared Errors
----|--------------
-2| 6.579528726147873E9
-3| 4.206943688566318E9
-4| 3.033621111245553E9
-5| 2.1576463672162566E9
-6| 1.512491209615321E9
-7| 1.1331846623059769E9
-8| 9.674647803109586E8
-9| 8.522675965831602E8
-10| 7.609490190126607E8
+![alt tag](https://github.com/YxingC/bigdata/blob/master/Photos/k-graph.PNG)
 
 We choose the minum errors that __k=7__
 
