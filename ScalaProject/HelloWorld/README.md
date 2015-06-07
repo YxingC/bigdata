@@ -5,7 +5,7 @@
 ###Five Attribute
  1|2|3|4|5
 -------------|----------------|-------------|-----------|------------
-Country_code(241) | Subject_length(>8000) | Link_or_not(2) | Addressee(13) | EncodeType(4)                       
+Country_code(242) | Subject_length(9999) | Link_or_not(2) | Addressee(14) | EncodeType(5)                       
 
 ###Result
 
